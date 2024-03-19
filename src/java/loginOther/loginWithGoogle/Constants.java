@@ -11,9 +11,9 @@ package loginOther.loginWithGoogle;
  */
 public class Constants {
 
-    public static String GOOGLE_CLIENT_ID = "191624818438-s99ebl49mgp3hvs7m7jekt99oft5b823.apps.googleusercontent.com";
+    public static String GOOGLE_CLIENT_ID = "";
 
-    public static String GOOGLE_CLIENT_SECRET = "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";
+    public static String GOOGLE_CLIENT_SECRET = "";
 
     public static String GOOGLE_REDIRECT_URI = "http://localhost:8080/myProject_2/LoginGoogleHandler";
 
